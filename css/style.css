@@ -199,10 +199,10 @@ h3 {font-size: 34px;}
 .project ul li {height: 400px; transition: all .35s ease;}
 .project ul li a {width: 100%; display: inline-block; border-radius: 6px; background: #fff; height: 100%; color: #000; padding:25px; transition: all .35s ease;}
 
-.project ul li:nth-child(1) a {background-image: url(/images/bg-1.png); background-size: contain; background-repeat:no-repeat; background-position: bottom;}
-.project ul li:nth-child(2) a {background-image: url(/images/bg-2.png); background-size: contain; background-repeat:no-repeat; background-position: bottom;}
-.project ul li:nth-child(3) a {background-image: url(/images/bg-3.png); background-size: contain; background-repeat:no-repeat; background-position: bottom;}
-.project ul li:nth-child(4) a {background-image: url(/images/bg-4.png); background-size: contain; background-repeat:no-repeat; background-position: bottom;}
+.project ul li:nth-child(1) a {background-image: url(../images/bg-1.png); background-size: contain; background-repeat:no-repeat; background-position: bottom;}
+.project ul li:nth-child(2) a {background-image: url(../images/bg-2.png); background-size: contain; background-repeat:no-repeat; background-position: bottom;}
+.project ul li:nth-child(3) a {background-image: url(../images/bg-3.png); background-size: contain; background-repeat:no-repeat; background-position: bottom;}
+.project ul li:nth-child(4) a {background-image: url(../images/bg-4.png); background-size: contain; background-repeat:no-repeat; background-position: bottom;}
 
 .project ul li:nth-child(1):hover a {background-color:#A7292A; color:#fff;}
 .project ul li:nth-child(2):hover a {background:#2E62D9; color:#fff;}
